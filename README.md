@@ -133,11 +133,6 @@ Les contributions sont les bienvenues ! Si vous avez des idées pour améliorer 
 
 ---
 
-## **Licence**
-
-Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus de détails.
-
----
 
 ## **Auteurs**
 
@@ -148,3 +143,6 @@ N'hésitez pas à me contacter pour toute question ou amélioration possible !
 --- 
 
 Avec ce README, votre application aura une présentation professionnelle et attrayante ! 😊
+
+![alt text](image.png)
+<video controls src="Screen Recording 2024-12-07 131615.mp4" title="Title"></video>
