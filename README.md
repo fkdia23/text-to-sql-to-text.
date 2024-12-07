@@ -136,13 +136,11 @@ Les contributions sont les bienvenues ! Si vous avez des idées pour améliorer 
 
 ## **Auteurs**
 
-- **Votre Nom** : Étudiant en Data Engineering (MSc 2, ECE Paris).
+- **Franklin KANA NGUEDIA** : Étudiant en Data Engineering (MSc 2, ECE Paris).
 
 N'hésitez pas à me contacter pour toute question ou amélioration possible !
 
 --- 
 
-Avec ce README, votre application aura une présentation professionnelle et attrayante ! 😊
-
 ![alt text](image.png)
-<video controls src="Screen Recording 2024-12-07 131615.mp4" title="Title"></video>
+[Voir la vidéo ]  <video controls src="Screen Recording 2024-12-07 131615.mp4" title="Title"></video>
