@@ -5,7 +5,7 @@ import mysql.connector
 # Configuration OpenAI
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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"  # Remplacez par votre clé API OpenAI
+    api_key="sk-or-v1-e5db770eee4cb5f6ce4"  # Remplacez par votre clé API OpenAI
 )
 
 # Configuration de la base de données MySQL
